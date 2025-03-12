@@ -5,14 +5,14 @@
 	<key>destination</key>
 	<string>export</string>
 	<key>method</key>
-	<string>debugging</string>
+	<string>release-testing</string>
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>ios.milian20.jiaoyouba</key>
-		<string>dev_milian20_20241218</string>
+		<string>adhoc_milian20_20241218</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>Apple Development</string>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
